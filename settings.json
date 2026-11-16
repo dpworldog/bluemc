@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "SoloPlayz"
+      "enabled": true,
+      "password": "darshv12"
     },
     "anti-afk": {
       "enabled": true,
